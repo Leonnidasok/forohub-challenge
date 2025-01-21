@@ -86,12 +86,5 @@ La aplicación estará disponible en: `http://localhost:8081`
 - **Swagger**: Documentación de API interactiva.
 - **Lombok**: Reducción de código boilerplate.
 
----
-
-## Autor
-Proyecto desarrollado por **XxJ03PxX** con apoyo de **Alura Latam**.
-
-- **GitHub**: [XxJ03PxX](https://github.com/XxJ0EPxX)
-- **LinkedIn**: [Jesus Orlando Estrada Pazos](https://www.linkedin.com/in/jesus-orlando-estrada-pazos-162678315/)
 
 ---
